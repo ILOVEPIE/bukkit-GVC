@@ -1,4 +1,4 @@
 bukkit-GVC
 ==========
 
-Bukkit support for Gliby's Voicechat Plugin
+Bukkit support for Gliby's Voice Chat Plugin
