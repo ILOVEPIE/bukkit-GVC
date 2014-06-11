@@ -1,4 +1,5 @@
 ![*Gliby's Voicechat Mod*](https://dl.dropboxusercontent.com/u/77796356/logo.png)
+
 Players will need [Gliby's Voice Chat](http://www.minecraftforum.net/topic/1960307-162-forge-glibys-voice-chat-mod-speak-ingame-communicate-with-other-players-over-voice-bukkit-server-support-lan-support/#entry24135256).
 
 Major update incoming! 
